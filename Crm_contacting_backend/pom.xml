@@ -4,12 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.awslambda.api</groupId>
 	<artifactId>CrmContactApp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>CrmContactApp</name>
 	<description>Crm Contact App</description>
-	<properties>
-		<java.version>17</java.version>
-	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/com.amazonaws/aws-lambda-java-core -->
 		<dependency>
